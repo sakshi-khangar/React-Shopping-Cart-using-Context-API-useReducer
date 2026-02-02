@@ -27,4 +27,4 @@ function CartProvider({children}) {
         </CartContext.Provider>
     );
 }
-export default CartProvider
+export default CartProvider;
