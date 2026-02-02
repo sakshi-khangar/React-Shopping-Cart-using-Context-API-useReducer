@@ -3,8 +3,7 @@ import { CartContext } from './CardContext';
 
 function ProductItem(){
     const {dispatch} = useContext (CartContext);
-    
-        return (
+       return (
         <>
                 <div className="product-box">
                 <h3>Mobile</h3>
